@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **tiba-600/tiba-600** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,4 +15,4 @@ hi i'm tiba. I'm a student of pogramming I'm in first year. I like to do my stud
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
