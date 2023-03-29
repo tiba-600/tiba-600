@@ -1,10 +1,3 @@
-### Hi there 👋
-
-
-**tiba-600/tiba-600** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 Hi 
 hi i'm tiba. I'm a student of pogramming I'm in first year. I like to do my studies. I learn a lot from m
 - 🔭 I’m currently working on ...
