@@ -1,11 +1,22 @@
 Hi 
-hi i'm tiba. I'm a student of pogramming I'm in first year. I like to do my studies. I learn a lot from m
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning program
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Ik ben Tiba.
+Ik ben student. Ik zit in eerste jaar graduaat programmeren.
+Ik doe mijn studie heel graag.
+Ik leer elke dag iets door mijn studie.
+
+Mijn vaardigheden zijn:
+🌱 = Css
+🌱 = Html
+🌱 = Javscript
+🌱 = Figma
+🌱 = Githup
+
+Mijn hobby:
+😄 = Boeken lezen
+😄 = Paardrijden
+😄 = Reizen
+😄 = Koeken
+
+💬 Hebben jullie vragen voor mij? 
+
 
